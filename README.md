@@ -50,3 +50,6 @@ My target audience is with business in mind, anyone looking for a fullstack deve
 https://user-images.githubusercontent.com/115469785/201313430-0d3830f0-4055-4fe4-aa8d-312f5381e34b.png)
 ![css 10](https://user-images.githubusercontent.com/115469785/201313696-b1128ca8-ff5f-4720-bd62-238b0db0504a.png)
 ![css 11](https://user-images.githubusercontent.com/115469785/201313812-2d129022-7dea-4561-bdc2-fd33d35202b0.png)
+
+
+[References for Portfolio Assignment.docx](https://github.com/Kaylene555/Portfolio-Assignment/files/9990156/References.for.Portfolio.Assignment.docx)
