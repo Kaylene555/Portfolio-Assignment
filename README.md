@@ -1,5 +1,8 @@
 file:///C:/Users/kayle/Documents/T1W2SAT/PortfolioAssignment/index.html#home
+
 https://636e119d6fad2734e228946c--zesty-fenglisu-b252e1.netlify.app/
+
+https://www.loom.com/share/5bd69cc5ecb24b628ad073961b186ef8
 
 # Portfolio-Assignment![Portfolio Web](https://user-images.githubusercontent.com/115469785/201305574-e905a3e8-8f76-4263-8b3e-dbf0d4fc340e.png)
 
